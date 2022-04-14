@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.plaine {
+  background-color: green;
+}
+.desert {
+  background-color: greenyellow;
+}
+
+.eau {
+  background-color: lightblue;
+}
